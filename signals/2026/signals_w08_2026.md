@@ -10,4 +10,4 @@
 - [E-E-A-T Reinforcement & Authority: Become the Brand AI Recommends](https://signals.freshnews.ai/daily-signal-bbcfadd6)
 
 ## Links
-- Signals hub: https://freshnews.ai
+- Signals hub: https://signals.freshnews.ai
