@@ -1,6 +1,6 @@
 # Content Pillars
 
-Snapshot ID: be634727-76be-4ecf-aa17-2eabb52e670f
+Snapshot ID: bbe150c3-3050-4681-a8f3-1381d1d8e715
 
 ## AI Visibility Intelligence & Dashboard
 - Canonical key: custom_ai_visibility_intelligence__dashboard__competitive_tracking

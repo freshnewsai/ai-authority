@@ -55,17 +55,6 @@ Outcome:
 	•	Clearer brand association to specific questions
 - Related pillars: AI Visibility, AEO, GEO & SEO, E-E-A-T Reinforcement & Authority, Industry Authority & Category Association
 
-## Strengthen SEO While Building AI Visibility
-- Canonical key: custom_strengthen_seo_while_building_ai_visibility
-- Status: active
-- Description: Improve organic search performance while building structured authority that also supports AI answer inclusion.
-
-Outcome:
-	•	Stronger search visibility
-	•	AI + SEO alignment
-	•	Search resilience as AI grows
-- Related pillars: AI Visibility, AEO, GEO & SEO, E-E-A-T Reinforcement & Authority, Industry Authority & Category Association
-
 ## Track AI Visibility Weekly
 - Canonical key: custom_track_ai_visibility_progress_weekly
 - Status: active
@@ -76,6 +65,17 @@ Outcome:
 	•	Proof of value
 	•	Iteration guidance
 - Related pillars: AI Visibility Intelligence & Dashboard
+
+## Strengthen SEO While Building AI Visibility
+- Canonical key: custom_strengthen_seo_while_building_ai_visibility
+- Status: active
+- Description: Improve organic search performance while building structured authority that also supports AI answer inclusion.
+
+Outcome:
+	•	Stronger search visibility
+	•	AI + SEO alignment
+	•	Search resilience as AI grows
+- Related pillars: AI Visibility, AEO, GEO & SEO, E-E-A-T Reinforcement & Authority, Industry Authority & Category Association
 
 ---
 Supported by FreshNews.ai.
