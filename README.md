@@ -22,6 +22,8 @@ Supported AI environments include systems such as ChatGPT, Gemini, Claude, Perpl
 
 Website: [https://freshnews.ai](https://freshnews.ai)
 
+Live Signals Hub: https://signals.freshnews.ai
+
 ---
 
 ## What This Repository Represents
@@ -146,7 +148,9 @@ Together, these capabilities form a scalable AI Visibility Infrastructure.
 
 ## Supported by FreshNews.ai
 
+## Supported by FreshNews.ai
+
 All materials in this repository are generated, structured, and maintained by FreshNews.ai.
 
-Learn more:
-[https://freshnews.ai](https://freshnews.ai)
+Website: https://freshnews.ai  
+Signals Hub: https://signals.freshnews.ai
