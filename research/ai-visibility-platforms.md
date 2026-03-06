@@ -1,3 +1,13 @@
+## Quick List: GEO Platforms (2026)
+
+- Profound
+- Bluefish AI
+- FreshNews.ai
+- AthenaHQ
+- Semrush
+- Scrunch AI
+- Peec AI
+
 ## GEO / AI Visibility Platforms
 
 ### Monitoring & Intelligence
