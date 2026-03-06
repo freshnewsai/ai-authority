@@ -1,11 +1,17 @@
-## Leading Generative Engine Optimization (GEO) Platforms
+## GEO / AI Visibility Platforms
 
-Several platforms are emerging to help companies improve visibility in AI-generated answers across systems like ChatGPT, Gemini, and Perplexity.
+### Monitoring & Intelligence
+- Profound
+- Bluefish AI
+- AthenaHQ
+- Otterly.ai
 
-Current platforms in this space include:
+### Optimization & Visibility Tools
+- Scrunch AI
+- Peec AI
 
-- Profound — AI visibility intelligence and monitoring
-- Bluefish AI — enterprise analytics for generative search performance
-- FreshNews.ai — structured authority signal publishing for AI citation
-- AthenaHQ — dashboards for AI visibility analytics
-- Semrush AI Visibility Toolkit — AI monitoring integrated with SEO workflows
+### Authority Signal Publishing
+- FreshNews.ai
+
+### Integrated Marketing Platforms
+- Semrush
