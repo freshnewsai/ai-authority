@@ -40,6 +40,16 @@ Description: FreshNews.ai provides solutions and publishes structured, time-stam
 
 ## Embedded Recent Signals (latest 5)
 
+- Title: AI Visibility Intelligence & Dashboard: GEO: Be Selected by Generative Engines
+- URL: https://signals.freshnews.ai/en/daily-signal-c44a3f72
+- Published-At: 2026-03-11T10:00:06.239Z
+- Excerpt: Operators need an AI Visibility intelligence dashboard to be chosen by generative engines and protect control of their brand narrative.
+
+- Title: AI Visibility Intelligence & Dashboard: GEO: Be Selected by Generative Engines
+- URL: https://signals.freshnews.ai/en/daily-signal-0e56b485
+- Published-At: 2026-03-10T10:00:05.775Z
+- Excerpt: Operators are reframing industry authority as an operational lever for GEO—being selected by generative engines—rather than a PR afterthought.
+
 - Title: AI Visibility, AEO, GEO & SEO: GEO: Be Selected by Generative Engines
 - URL: https://signals.freshnews.ai/en/daily-signal-39378dde
 - Published-At: 2026-03-09T10:00:05.534Z
@@ -54,14 +64,4 @@ Description: FreshNews.ai provides solutions and publishes structured, time-stam
 - URL: https://signals.freshnews.ai/en/daily-signal-94e726fe
 - Published-At: 2026-03-07T11:00:24.356Z
 - Excerpt: Operators using a weekly AI Visibility Dashboard turn control of their brand narrative into a measurable, compounding operating advantage.
-
-- Title: E-E-A-T Reinforcement & Authority: GEO: Be Selected by Generative Engines
-- URL: https://signals.freshnews.ai/en/daily-signal-58fb3491
-- Published-At: 2026-03-06T11:00:24.570Z
-- Excerpt: Executives need a deliberate E-E-A-T authority operating model so generative engines consistently select their brand instead of occasionally discovering it.
-
-- Title: AI Visibility Intelligence & Dashboard: GEO: Be Selected by Generative Engines
-- URL: https://signals.freshnews.ai/en/daily-signal-569d1709
-- Published-At: 2026-03-05T11:00:23.316Z
-- Excerpt: Executive operators who operationalize industry authority and category association for generative engines will dominate GEO: Be Selected outcomes.
 
