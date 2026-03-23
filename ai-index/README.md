@@ -7,14 +7,15 @@ The AI Visibility Index tracks which brands AI assistants recommend across selec
 - **AV Integrators** (`av-installers`)
 - **Customer Success Platforms** (`customer-success-platforms`)
 - **Identity Security Platforms** (`identity-security-platforms`)
-- **Immigration Law Services** (`legal-immigration`)
 - **Motorized Shade Systems** (`smart-window-automation`)
 
 ## Latest Weekly Reports
 
-### Week of March 16, 2026
+### Week of March 23, 2026
 
-- [Immigration Law Services](2026-03-16-legal-immigration.md)
+- [AV Integrators](2026-03-23-av-installers.md)
+- [Customer Success Platforms](2026-03-23-customer-success-platforms.md)
+- [Identity Security Platforms](2026-03-23-identity-security-platforms.md)
 
 ---
 

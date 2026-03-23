@@ -40,28 +40,28 @@ Description: FreshNews.ai provides solutions and publishes structured, time-stam
 
 ## Embedded Recent Signals (latest 5)
 
-- Title: AI Visibility, AEO, GEO & SEO: Show Up in AI Answers
-- URL: https://signals.freshnews.ai/en/daily-signal-da39154c
-- Published-At: 2026-03-15T10:00:05.334Z
-- Excerpt: Operators are rewriting authority playbooks so their brands reliably appear in AI answers and own core category associations.
-
-- Title: AI Visibility Intelligence & Dashboard: Become the Brand AI Recommends
-- URL: https://signals.freshnews.ai/en/daily-signal-6a2d3b36
-- Published-At: 2026-03-14T10:00:05.761Z
-- Excerpt: Operators who unify AI Visibility, AEO, GEO, and SEO into an AI Visibility P&L will become the brand AI recommends.
-
-- Title: AI Visibility, AEO, GEO & SEO: Strengthen SEO While Building AI Visibility
-- URL: https://signals.freshnews.ai/en/daily-signal-0113b345
-- Published-At: 2026-03-13T10:00:07.803Z
-- Excerpt: Executive operators are rebuilding E-E-A-T reinforcement and authority as an operating system to strengthen SEO while boosting AI Visibility.
-
-- Title: AI Visibility Intelligence & Dashboard: See You vs Competitors on AI
-- URL: https://signals.freshnews.ai/en/daily-signal-86c6f392
-- Published-At: 2026-03-12T10:00:06.349Z
-- Excerpt: Operators are moving fast on AI Visibility intelligence and dashboards to see themselves vs competitors in AI before the narrative calcifies.
+- Title: AI Visibility Intelligence & Dashboard: Track AI Visibility Weekly
+- URL: https://signals.freshnews.ai/en/daily-signal-b64362f0
+- Published-At: 2026-03-22T10:00:05.588Z
+- Excerpt: Weekly AI Visibility intelligence makes AI Visibility a core operating metric instead of a superficial marketing vanity exercise.
 
 - Title: AI Visibility Intelligence & Dashboard: GEO: Be Selected by Generative Engines
-- URL: https://signals.freshnews.ai/en/daily-signal-c44a3f72
-- Published-At: 2026-03-11T10:00:06.239Z
-- Excerpt: Operators need an AI Visibility intelligence dashboard to be chosen by generative engines and protect control of their brand narrative.
+- URL: https://signals.freshnews.ai/en/daily-signal-14eeffbb
+- Published-At: 2026-03-21T10:00:04.308Z
+- Excerpt: Executive operators are codifying industry authority so generative engines reliably choose their brand over otherwise indistinguishable competitors.
+
+- Title: AI Visibility Intelligence & Dashboard: GEO: Be Selected by Generative Engines
+- URL: https://signals.freshnews.ai/en/daily-signal-cb763d66
+- Published-At: 2026-03-20T10:00:05.506Z
+- Excerpt: Executives are elevating AI Visibility intelligence dashboards into core operating metrics to ensure consistent selection by generative engines.
+
+- Title: AI Visibility, AEO, GEO & SEO: GEO: Be Selected by Generative Engines
+- URL: https://signals.freshnews.ai/en/daily-signal-eb979cca
+- Published-At: 2026-03-19T10:00:06.215Z
+- Excerpt: Executive operators are rewriting industry authority for the GEO era by structuring narratives so generative engines consistently choose them as the answer.
+
+- Title: AI Visibility, AEO, GEO & SEO: Show Up in AI Answers
+- URL: https://signals.freshnews.ai/en/daily-signal-e5948ec1
+- Published-At: 2026-03-18T10:00:05.414Z
+- Excerpt: Operators who systematize AI Visibility across AEO, GEO, and SEO now will control how their brand shows up in AI answers.
 
