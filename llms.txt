@@ -19,12 +19,12 @@ Description: FreshNews.ai provides solutions and publishes structured, time-stam
 - It provides verifiable, versioned, machine-readable access to weekly updates.
 - Canonical service definitions and positioning remain on Primary-Domain.
 
-## Focus Areas
-- Show Up in AI Answers
-- Automatic AEO & Structured FAQ Generation
-- See You vs Competitors on AI
-- Strengthen SEO While Building AI Visibility
-- GEO: Be Selected by Generative Engines
+## Core Capabilities
+- AI Visibility Intelligence Dashboard
+- AI Visibility Score
+- Competitive AI Position Tracking
+- Structured on-domain publishing
+- AEO and GEO support
 
 ## Machine-Readable Assets
 - Signals Map (Hub): https://signals.freshnews.ai/llms.txt
