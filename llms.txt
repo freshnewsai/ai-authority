@@ -12,7 +12,7 @@ Versions-Manifest: https://signals.freshnews.ai/versions.json
 Source-Verification: https://signals.freshnews.ai/mainsite/llms.txt
 Update-Frequency: Weekly (Automated Cron)
 
-Description: FreshNews.ai provides solutions and publishes structured, time-stamped signals and insights to support discoverability and trust.
+Description: FreshNews.ai helps brands stay visible, credible, and consistently present wherever discovery happens — across AI search and public channels. We turn brand knowledge into structured authority so AI systems clearly understand, recommend, and trust your company over time.
 
 ## Node Purpose
 - This GitHub node mirrors structured Signals published on the canonical Primary-Domain.
