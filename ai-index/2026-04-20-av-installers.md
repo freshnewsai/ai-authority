@@ -22,7 +22,7 @@ AI Recommendation Rate = mentions / totalResponses.
 
 ## Key insights
 
-- Avi Spl leads with 18 mentions
+- AVI-SPL leads with 18 mentions
 - 62 total citations across 31 unique domains
 - Top cited domain: avnetwork.com
 - Analyzed 18 AI responses across multiple engines
