@@ -1,5 +1,6 @@
 # Weekly Signals Index
 
+- 2026-W19 — [signals_w19_2026.md](./2026/signals_w19_2026.md)
 - 2026-W18 — [signals_w18_2026.md](./2026/signals_w18_2026.md)
 - 2026-W17 — [signals_w17_2026.md](./2026/signals_w17_2026.md)
 - 2026-W16 — [signals_w16_2026.md](./2026/signals_w16_2026.md)
