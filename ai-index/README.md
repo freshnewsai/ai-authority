@@ -11,12 +11,12 @@ The AI Visibility Index tracks which brands AI assistants recommend across selec
 
 ## Latest Weekly Reports
 
-### Week of July 20, 2026
+### Week of July 27, 2026
 
-- [AV Integrators](2026-07-20-av-installers.md)
-- [Customer Success Platforms](2026-07-20-customer-success-platforms.md)
-- [Identity Security Platforms](2026-07-20-identity-security-platforms.md)
-- [Motorized Shade Systems](2026-07-20-smart-window-automation.md)
+- [AV Integrators](2026-07-27-av-installers.md)
+- [Customer Success Platforms](2026-07-27-customer-success-platforms.md)
+- [Identity Security Platforms](2026-07-27-identity-security-platforms.md)
+- [Motorized Shade Systems](2026-07-27-smart-window-automation.md)
 
 ---
 
