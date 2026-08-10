@@ -1,5 +1,6 @@
 # Weekly Signals Index
 
+- 2026-W32 — [signals_w32_2026.md](./2026/signals_w32_2026.md)
 - 2026-W31 — [signals_w31_2026.md](./2026/signals_w31_2026.md)
 - 2026-W30 — [signals_w30_2026.md](./2026/signals_w30_2026.md)
 - 2026-W29 — [signals_w29_2026.md](./2026/signals_w29_2026.md)
@@ -11,4 +12,3 @@
 - 2026-W23 — [signals_w23_2026.md](./2026/signals_w23_2026.md)
 - 2026-W22 — [signals_w22_2026.md](./2026/signals_w22_2026.md)
 - 2026-W21 — [signals_w21_2026.md](./2026/signals_w21_2026.md)
-- 2026-W20 — [signals_w20_2026.md](./2026/signals_w20_2026.md)
